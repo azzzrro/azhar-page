@@ -1,6 +1,6 @@
 button::before,
 button::after{
     position: absolute;
-    content: "";
+    content: "Instagram";
     z-index: -1;
 }
